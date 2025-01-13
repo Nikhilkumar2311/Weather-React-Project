@@ -103,5 +103,5 @@ Contributions are welcome! If you'd like to improve this project:
 
 ### Author 🧑‍💻
 
-Github: https://github.com/Nikhilkumar2311
-LinkedIn: https://www.linkedin.com/in/nikhilkumar0908/
+- Github: https://github.com/Nikhilkumar2311
+- LinkedIn: https://www.linkedin.com/in/nikhilkumar0908/
